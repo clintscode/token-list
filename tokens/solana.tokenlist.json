@@ -1,0 +1,15 @@
+[
+  {
+    "chainId": 101,
+    "address": "SkYoLqTHTSjjqfr9JsSuLAcPpJLKGBH7cT1jCZ8FRKb",
+    "symbol": "REWIND",
+    "name": "BLOCKBU$TER",
+    "decimals": 9,
+    "logoURI": "https://rewindtoken.com/rewind_logo.png",
+    "tags": ["nostalgia", "memecoin", "solana"],
+    "extensions": {
+      "website": "https://rewindtoken.com",
+      "twitter": "https://twitter.com/RewindToken"
+    }
+  }
+]
