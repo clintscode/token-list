@@ -5,7 +5,7 @@
     "symbol": "REWIND",
     "name": "BLOCKBU$TER",
     "decimals": 9,
-    "logoURI": "https://rewindtoken.com/rewind_logo.png",
+    "logoURI": "https://raw.githubusercontent.com/clintscode/token-list/refs/heads/main/tokens/solana.tokenlist.json",
     "tags": ["nostalgia", "memecoin", "solana"],
     "extensions": {
       "twitter": "https://x.com/____BlockBuster"
